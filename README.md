@@ -1,4 +1,9 @@
 hello-world
 ===========
 
-Just another repository
+Yo let's commit some crimes.
+larceny
+jaywalking
+tax evasion
+punching a cop
+drive too fast
